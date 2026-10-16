@@ -1,4 +1,4 @@
-# 📃 Analítica de Incidentes y Automatización de Procesos de Soporte TI 🚨🤖
+# 📃 Analítica de Incidentes y Automatización de Mesa de Ayuda 🚨🤖
 
 <p align="center">
   <img width="800" alt="Arquitectura del Sistema" src="docs/arquitectura_sistema.png" />
